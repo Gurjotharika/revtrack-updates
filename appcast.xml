@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>RevTrack Updates</title>
+    <link>https://gurjotharika.github.io/revtrack-updates/appcast.xml</link>
+    <description>RevTrack Changelog</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Thu, 24 Jul 2025 12:00:00 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h3>What's New</h3>
+        <ul><li>Initial release</li></ul>
+      ]]></description>
+      <enclosure
+        url="https://gurjotharika.github.io/revtrack-updates/RevTrack.dmg"
+        sparkle:edSignature="0HwaTExW6/jx6v2qMWcT3onvvW+PXdXtdj0a4F9Nixmp8vkbqFo9d7kzWS3QYImMmjb0Uu/Rd2HlEtzNDZ/0Cw=="
+        length="22335654"
+        type="application/octet-stream"
+      />
+    </item>
+  </channel>
+</rss>
